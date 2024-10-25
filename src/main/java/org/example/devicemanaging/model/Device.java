@@ -1,6 +1,5 @@
 
-package org.example.devicemanaging;
-import org.example.devicemanaging.DeviceType;
+package org.example.devicemanaging.model;
 
 public class Device {
     private DeviceType type; // Use DeviceType instead of Enum

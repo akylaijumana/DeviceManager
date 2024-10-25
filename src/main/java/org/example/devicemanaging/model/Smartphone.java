@@ -1,4 +1,4 @@
-package org.example.devicemanaging;
+package org.example.devicemanaging.model;
 
 public class Smartphone extends Device {
     private double screenSize;

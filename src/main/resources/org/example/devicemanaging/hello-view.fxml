@@ -12,7 +12,7 @@
 <?import javafx.scene.layout.RowConstraints?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="402.0" prefWidth="600.0" style="-fx-background-color: pink;" xmlns="http://javafx.com/javafx/23" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.devicemanaging.Controller">
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="402.0" prefWidth="600.0" style="-fx-background-color: pink;" xmlns="http://javafx.com/javafx/23" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.devicemanaging.controller.Controller">
     <children>
         <ListView fx:id="listView" layoutX="293.0" layoutY="21.0" onMouseClicked="#onListClicked" prefHeight="312.0" prefWidth="282.0" style="-fx-background-color: beige;" AnchorPane.bottomAnchor="68.0" AnchorPane.leftAnchor="300.0" AnchorPane.rightAnchor="18.0" AnchorPane.topAnchor="20.0" />
 
